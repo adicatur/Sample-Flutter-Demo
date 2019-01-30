@@ -1,8 +1,7 @@
-# sample_flutter_apps
+# Sample Flutter Demo
 
-A new Flutter application.
+A sample application for demo purposes, this sample is built on top of flutter sample app. Few modification for showing how to implement [platform channel](https://flutter.io/docs/development/platform-integration/platform-channels), 
 
-## Getting Started
+# Reference
+https://flutter.io/docs/get-started/test-drive?tab=androidstudio
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
